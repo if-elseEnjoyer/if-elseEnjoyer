@@ -108,7 +108,7 @@ Machine Learning · System Design · Docker · Backend Architecture
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
 </a>
 
-<a href="https://www.linkedin.com/in/devansh-rajoura/">
+<a href="https://www.linkedin.com/in/devansh-rajoura">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
 <!--<a href="https://yourportfolio.com">
