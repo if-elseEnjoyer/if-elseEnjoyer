@@ -1,142 +1,129 @@
 <div align="center">
 
-# Devansh Rajoura
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:58A6FF&height=230&section=header&text=Devansh%20Rajoura&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI/ML%20Explorer&descAlignY=58&descSize=17&descColor=B8D8FF" width="100%"/>
 
-### Computer Science Student • Full Stack Developer • AI/ML Explorer
+<br>
 
 > *Professionally fixing bugs I didn't create.*
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems.;Exploring+AI%2C+Machine+Learning+%26+Open+Source.;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems.;Exploring+AI%2C+Machine+Learning+%26+Open+Source.;Always+learning.+Always+building." alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📍_Location-India-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎓_Role-CS_Student-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/⚡_Focus-Full_Stack_%7C_AI/ML-58A6FF?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
 <br>
 
-## `$ whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=1000" width="100%"/>
 
-```bash
-$ whoami
+## 🧠 About Me
 
-Name        :: Devansh Rajoura
-Username    :: if-elseEnjoyer
-Location    :: India 🇮🇳
-Role        :: Computer Science Student
+I'm a Computer Science student who enjoys building software that's useful, elegant, and genuinely enjoyable to use. Right now I'm deep in **full-stack development**, **AI/ML**, and contributing to **open source** whenever the chance comes up.
 
-Focus       :: Full Stack Development
-               Artificial Intelligence
-               Machine Learning
-               Open Source
-
-Philosophy  :: Build things people actually use.
-```
+I like turning half-formed ideas into working products, picking up new tools along the way, and getting a little bit better at engineering every week.
 
 <br>
 
-## `$ cat about.txt`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=1000" width="100%"/>
 
-```text
-I'm a Computer Science student passionate about building software
-that's useful, elegant, and enjoyable to use.
+## 🚀 Currently Building
 
-Currently focused on full-stack development, AI/ML, and contributing
-to open-source whenever I can.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy turning ideas into products, learning new technologies,
-and continuously improving as an engineer.
-```
+**📦 Scorix**
+AI-powered ATS Resume Analyzer
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-## `$ ls current-projects/`
+**🌱 Learning right now**
+Machine Learning · System Design · Docker · Backend Architecture
 
-```text
-📦 Scorix
-   └── AI-powered ATS Resume Analyzer
-
-🌱 currently-learning/
-   ├── Machine Learning
-   ├── System Design
-   ├── Docker
-   └── Backend Architecture
-```
+</td>
+</tr>
+</table>
 
 <br>
 
-## `$ tech-stack --list`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=1000" width="100%"/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,html,css" />
-
 <br>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,html,css&theme=dark" />
+
+<br><br>
 
 **Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
-
 <br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
+
+<br><br>
 
 **Database & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-
 <br>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" />
+
+<br><br>
 
 **Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" />
 
 </div>
 
 <br>
 
-## `$ git status`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=1000" width="100%"/>
 
-```text
-On branch main
+## 📌 Right Now
 
-Currently:
-  ✓ Building projects
-  ✓ Learning something new
-  ✓ Looking for interesting problems to solve
-
-Note:
-  Professionally fixing bugs I didn't create.
-```
+| | |
+|---|---|
+| ✅ | Building projects |
+| ✅ | Learning something new every week |
+| ✅ | Looking for interesting problems to solve |
+| 🐛 | Professionally fixing bugs I didn't create |
 
 <br>
 
-## `$ connect --show-links`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=1000" width="100%"/>
+
+## 🔗 Connect
 
 <div align="center">
 
 <a href="https://github.com/if-elseEnjoyer">
-  <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
 </a>
 
 <!-- Uncomment and fill in when ready
 <a href="https://linkedin.com/in/your-link">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
-<a href="https://yourportfolio.com">🌐 Portfolio</a>
-<a href="mailto:your@email.com">📧 Email</a>
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
+</a>
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
+</a>
 -->
 
 </div>
 
 <br>
 
-<div align="center">
-
-```bash
-$ exit
-
-Thanks for stopping by.
-Happy coding 👋
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
