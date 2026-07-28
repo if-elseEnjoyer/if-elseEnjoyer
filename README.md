@@ -108,17 +108,17 @@ Machine Learning · System Design · Docker · Backend Architecture
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
 </a>
 
-<!-- Uncomment and fill in when ready
-<a href="https://linkedin.com/in/your-link">
+ Uncomment and fill in when ready
+<a href="https://www.linkedin.com/in/devansh-rajoura/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
-</a>
+<!-- </a>
 <a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
-</a>
-<a href="mailto:your@email.com">
+</a> -->
+<a href="mailto:devanshedt@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
 </a>
--->
+
 
 </div>
 
