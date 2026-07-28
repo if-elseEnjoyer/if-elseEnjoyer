@@ -103,22 +103,21 @@ Machine Learning · System Design · Docker · Backend Architecture
 ## 🔗 Connect
 
 <div align="center">
+<br>
 
 <a href="https://github.com/if-elseEnjoyer">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+<img height="42" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&logoWidth=22" />
 </a>
-
-<a href="https://www.linkedin.com/in/devansh-rajoura">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/devansh-rajoura/">
+<img height="42" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&logoWidth=22" />
 </a>
-<!--<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
-</a> -->
+&nbsp;&nbsp;
 <a href="mailto:devanshedt@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
+<img height="42" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&logoWidth=22" />
 </a>
 
-
+<br>
 </div>
 
 <br>
