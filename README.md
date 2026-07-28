@@ -106,15 +106,15 @@ Machine Learning · System Design · Docker · Backend Architecture
 <br>
 
 <a href="https://github.com/if-elseEnjoyer">
-<img height="42" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&logoWidth=22" />
+<img height="45" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/devansh-rajoura/">
-<img height="42" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&logoWidth=22" />
+<img height="45" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:devanshedt@gmail.com">
-<img height="42" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&logoWidth=22" />
+<img height="45" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
 </a>
 
 <br>
